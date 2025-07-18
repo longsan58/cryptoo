@@ -1,0 +1,8 @@
+{
+  "name": "NISA Investment adadvisor",
+  "description": "A comprehensive crypto trading application with live market data, an advanced trading interface, and user profile management, all wrapped in a sleek, modern UI with a professional purple theme.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
